@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071316"/><stop offset=".58" stop-color="#1f6970"/><stop offset="1" stop-color="#071316"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="28"/></filter></defs>
+<rect width="100%" height="100%" fill="#071316"/><rect width="100%" height="100%" fill="url(#g)" opacity=".78"/>
+<circle cx="1248" cy="162" r="180" fill="#79d6dc" opacity=".13" filter="url(#glow)"/>
+<g><g fill="none" stroke="#79d6dc" stroke-width="5" opacity=".7"><path d="M120 770 L320 570 L520 770 L720 570 L920 770 L1120 570"/><path d="M180 870 L380 670 L580 870 L780 670 L980 870"/></g></g>
+<rect x="42" y="42" width="1516" height="816" rx="30" fill="none" stroke="#79d6dc" stroke-width="2" opacity=".38"/>
+<text x="72" y="92" class="small" fill="#e9fbfc" font-family="Arial, sans-serif" font-size="18" letter-spacing="7">WEKND.SPIRIT</text>
+<text x="72" y="145" fill="#79d6dc" font-family="Arial, sans-serif" font-size="16" letter-spacing="4">MUSIC • EXPERIENCES</text>
+<text x="72" y="530" class="title">WEEKEND SESSIONS</text>
+<text x="72" y="650" fill="#79d6dc" font-family="Arial, sans-serif" font-size="18" letter-spacing="5">14 NOV • 7 PM  •  VADODARA</text>
+<line x1="72" y1="765" x2="1528" y2="765" stroke="#79d6dc" opacity=".35"/>
+<text x="72" y="812" fill="#e9fbfc" font-family="Arial, sans-serif" font-size="15" letter-spacing="4">GOOD PEOPLE. GREAT WEEKENDS.</text>
+<style>.title{font-family:Georgia,serif;font-size:88px;font-weight:700;fill:#e9fbfc;letter-spacing:1px}</style>
+</svg>
