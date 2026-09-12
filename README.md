@@ -1,4 +1,6 @@
-# WEKND.SPIRIT V3
-Premium events/ticketing demo with city-first discovery, account drawer, 5 curated events, event-specific posters, ticket categories, customer details with country code, UPI app selection with real brand icons, card brand detection (Visa/Mastercard/RuPay), processing state, real scannable QR generation, and one-time scan simulation.
+# WEKND.SPIRIT V4
+Premium event discovery and ticketing demo.
 
-Demo only: no real payment is collected. Production Razorpay integration must use server-side order creation, signature verification and webhooks.
+Includes city-first discovery, branded splash, horizontal featured banners, responsive event grid, event detail pages, ticket selection, customer profile/OTP demo, UPI app selection, card-brand detection, processing/success QR ticket, and organizer camera scanner/check-in.
+
+Real Razorpay payments, real OTP delivery, and server-backed cross-device check-in must be connected before production use.
